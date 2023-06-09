@@ -3,8 +3,8 @@ I Developed this Social Media Platform -FeedBuzz:  where you can share your life
 
 
 <h1>Features</h1>
-1. FeedBuzz is a social media app developed using React.js and Sanity, offering a seamless user experience.
-2. Users can easily log in to the app using their Google email ID, ensuring convenience and security.
+<ol>FeedBuzz is a social media app developed using React.js and Sanity, offering a seamless user experience.</ol>
+ Users can easily log in to the app using their Google email ID, ensuring convenience and security.
 3. The app enables users to share their posts, allowing them to express themselves and interact with others.
 4. With a simple interface, users can effortlessly browse and explore posts shared by other users on the platform.
 5. FeedBuzz combines the power of React.js and Sanity to create an engaging social media experience, promoting connectivity and content sharing.
